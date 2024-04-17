@@ -1,0 +1,8 @@
+* {
+    font-family: "Open Sans";
+}
+.img {
+    height: 500px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
